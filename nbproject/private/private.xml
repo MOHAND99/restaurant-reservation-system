@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/restaurant-reservation-system.iml</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/gui/controllers/MyOrdersController.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/restaurant/user/Employee.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/restaurant/order/Order.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/restaurant/Table.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/information/CookerInformation.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/restaurant/user/Waiter.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/restaurant/order/OrderItem.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/gui/controllers/ControlPanelController.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/gui/views/controlPanel.fxml</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/gui/views/employeeDashboard.fxml</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/restaurant.xml</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/gui/HelperMethods.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/gui/controllers/StatisticsController.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/restaurant/dish/Appetizer.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/restaurant/dish/MainCourse.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/gui/views/login.fxml</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/gui/views/statistics.fxml</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/adapted/AdaptedTable.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/gui/views/order.fxml</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/information/WaiterInformation.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/adapters/DishAdapter.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/manifest.mf</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/gui/views/save.fxml</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/restaurant/dish/Dish.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/restaurant/user/User.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/restaurant/user/Cooker.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/restaurant/dish/Desert.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/gui/Main.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/adapters/TableAdapter.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/gui/views/customerDashboard.fxml</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/restaurant/user/Client.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/gui/controllers/EmployeeDashboardController.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/gui/controllers/CustomerDashboardController.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/restaurant/Restaurant.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/restaurant/user/Manager.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/gui/views/myOrders.fxml</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/restaurant/DayIncome.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/information/Information.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/adapted/AdaptedDish.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/restaurant/ClientPayments.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/adapted/AdaptedUser.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/gui/custom/controls/ProductQuantityView.java</file>
+            <file>file:/C:/Users/Mhnd%20Bshar/Desktop/NetBeansProjects/restaurant-reservation-system/src/information/ManagerInformation.java</file>
+        </group>
+    </open-files>
+</project-private>

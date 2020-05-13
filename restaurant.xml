@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<restaurant>
+    <users>
+        <user>
+            <name>Adam Smith</name>
+            <role>Manager</role>
+            <username>adam</username>
+            <password>adam_manager</password>
+        </user>
+        <user>
+            <name>John Doe</name>
+            <role>Client</role>
+            <username>john</username>
+            <password>john_doe</password>
+        </user>
+        <user>
+            <name>Brian Johnes</name>
+            <role>Client</role>
+            <username>brian</username>
+            <password>mdir@admj%ar5qX2</password>
+        </user>
+        <user>
+            <name>George Robben</name>
+            <role>Waiter</role>
+            <username>george</username>
+            <password>k6987_#LpQ</password>
+        </user>
+        <user>
+            <name>Tomas Hobbens</name>
+            <role>Cooker</role>
+            <username>hobbens_tom</username>
+            <password>cooker_pass</password>
+        </user>
+    </users>
+    <tables>
+        <table>
+            <number>1</number>
+            <number_of_seats>5</number_of_seats>
+            <smoking>false</smoking>
+        </table>
+        <table>
+            <number>2</number>
+            <number_of_seats>12</number_of_seats>
+            <smoking>false</smoking>
+        </table>
+        <table>
+            <number>3</number>
+            <number_of_seats>12</number_of_seats>
+            <smoking>true</smoking>
+        </table>
+        <table>
+            <number>4</number>
+            <number_of_seats>4</number_of_seats>
+            <smoking>false</smoking>
+        </table>
+        <table>
+            <number>5</number>
+            <number_of_seats>4</number_of_seats>
+            <smoking>true</smoking>
+        </table>
+        <table>
+            <number>6</number>
+            <number_of_seats>7</number_of_seats>
+            <smoking>true</smoking>
+        </table>
+        <table>
+            <number>7</number>
+            <number_of_seats>6</number_of_seats>
+            <smoking>true</smoking>
+        </table>
+    </tables>
+    <dishes>
+        <dish>
+            <name>Grilled Chicken</name>
+            <price>75.0</price>
+            <type>main_course</type>
+        </dish>
+        <dish>
+            <name>Greek Salade</name>
+            <price>35.0</price>
+            <type>appetizer</type>
+        </dish>
+        <dish>
+            <name>Fried Potatos</name>
+            <price>30.0</price>
+            <type>appetizer</type>
+        </dish>
+        <dish>
+            <name>Apple Pie</name>
+            <price>50.0</price>
+            <type>desert</type>
+        </dish>
+        <dish>
+            <name>Molten Cake</name>
+            <price>60.0</price>
+            <type>desert</type>
+        </dish>
+        <dish>
+            <name>Mushroom Soup</name>
+            <price>60.0</price>
+            <type>main_course</type>
+        </dish>
+        <dish>
+            <name>Beef Steak</name>
+            <price>80.0</price>
+            <type>main_course</type>
+        </dish>
+    </dishes>
+    <orders>
+        <order>
+            <user>
+                <name>John Doe</name>
+                <role>Client</role>
+                <username>john</username>
+                <password>john_doe</password>
+            </user>
+            <dateTime>2020-04-03T22:08</dateTime>
+            <table>
+                <number>4</number>
+                <number_of_seats>4</number_of_seats>
+                <smoking>false</smoking>
+            </table>
+            <totalPrice>38.5</totalPrice>
+            <items>
+                <item>
+                    <dish>
+                        <name>Greek Salade</name>
+                        <price>35.0</price>
+                        <type>appetizer</type>
+                    </dish>
+                    <quantity>1</quantity>
+                </item>
+            </items>
+        </order>
+        <order>
+            <user>
+                <name>John Doe</name>
+                <role>Client</role>
+                <username>john</username>
+                <password>john_doe</password>
+            </user>
+            <dateTime>2020-04-04T01:16</dateTime>
+            <table>
+                <number>2</number>
+                <number_of_seats>12</number_of_seats>
+                <smoking>false</smoking>
+            </table>
+            <totalPrice>180.0</totalPrice>
+            <items>
+                <item>
+                    <dish>
+                        <name>Apple Pie</name>
+                        <price>50.0</price>
+                        <type>desert</type>
+                    </dish>
+                    <quantity>3</quantity>
+                </item>
+            </items>
+        </order>
+        <order>
+            <user>
+                <name>John Doe</name>
+                <role>Client</role>
+                <username>john</username>
+                <password>john_doe</password>
+            </user>
+            <dateTime>2020-04-05T10:15</dateTime>
+            <table>
+                <number>1</number>
+                <number_of_seats>5</number_of_seats>
+                <smoking>false</smoking>
+            </table>
+            <totalPrice>378.75</totalPrice>
+            <items>
+                <item>
+                    <dish>
+                        <name>Grilled Chicken</name>
+                        <price>75.0</price>
+                        <type>main_course</type>
+                    </dish>
+                    <quantity>3</quantity>
+                </item>
+                <item>
+                    <dish>
+                        <name>Apple Pie</name>
+                        <price>50.0</price>
+                        <type>desert</type>
+                    </dish>
+                    <quantity>2</quantity>
+                </item>
+            </items>
+        </order>
+        <order>
+            <user>
+                <name>John Doe</name>
+                <role>Client</role>
+                <username>john</username>
+                <password>john_doe</password>
+            </user>
+            <dateTime>2020-04-09T15:13</dateTime>
+            <table>
+                <number>2</number>
+                <number_of_seats>12</number_of_seats>
+                <smoking>false</smoking>
+            </table>
+            <totalPrice>132.0</totalPrice>
+            <items>
+                <item>
+                    <dish>
+                        <name>Apple Pie</name>
+                        <price>50.0</price>
+                        <type>desert</type>
+                    </dish>
+                    <quantity>1</quantity>
+                </item>
+                <item>
+                    <dish>
+                        <name>Molten Cake</name>
+                        <price>60.0</price>
+                        <type>desert</type>
+                    </dish>
+                    <quantity>1</quantity>
+                </item>
+            </items>
+        </order>
+        <order>
+            <user>
+                <name>John Doe</name>
+                <role>Client</role>
+                <username>john</username>
+                <password>john_doe</password>
+            </user>
+            <dateTime>2020-04-10T00:08</dateTime>
+            <table>
+                <number>2</number>
+                <number_of_seats>12</number_of_seats>
+                <smoking>false</smoking>
+            </table>
+            <totalPrice>86.25</totalPrice>
+            <items>
+                <item>
+                    <dish>
+                        <name>Grilled Chicken</name>
+                        <price>75.0</price>
+                        <type>main_course</type>
+                    </dish>
+                    <quantity>1</quantity>
+                </item>
+            </items>
+        </order>
+        <order>
+            <user>
+                <name>John Doe</name>
+                <role>Client</role>
+                <username>john</username>
+                <password>john_doe</password>
+            </user>
+            <dateTime>2020-04-15T14:29</dateTime>
+            <table>
+                <number>2</number>
+                <number_of_seats>12</number_of_seats>
+                <smoking>false</smoking>
+            </table>
+            <totalPrice>4674.25</totalPrice>
+            <items>
+                <item>
+                    <dish>
+                        <name>Greek Salade</name>
+                        <price>35.0</price>
+                        <type>appetizer</type>
+                    </dish>
+                    <quantity>12</quantity>
+                </item>
+                <item>
+                    <dish>
+                        <name>Fried Potatos</name>
+                        <price>30.0</price>
+                        <type>appetizer</type>
+                    </dish>
+                    <quantity>9</quantity>
+                </item>
+                <item>
+                    <dish>
+                        <name>Grilled Chicken</name>
+                        <price>75.0</price>
+                        <type>main_course</type>
+                    </dish>
+                    <quantity>13</quantity>
+                </item>
+                <item>
+                    <dish>
+                        <name>Mushroom Soup</name>
+                        <price>60.0</price>
+                        <type>main_course</type>
+                    </dish>
+                    <quantity>6</quantity>
+                </item>
+                <item>
+                    <dish>
+                        <name>Beef Steak</name>
+                        <price>80.0</price>
+                        <type>main_course</type>
+                    </dish>
+                    <quantity>8</quantity>
+                </item>
+                <item>
+                    <dish>
+                        <name>Apple Pie</name>
+                        <price>50.0</price>
+                        <type>desert</type>
+                    </dish>
+                    <quantity>19</quantity>
+                </item>
+                <item>
+                    <dish>
+                        <name>Molten Cake</name>
+                        <price>60.0</price>
+                        <type>desert</type>
+                    </dish>
+                    <quantity>7</quantity>
+                </item>
+            </items>
+        </order>
+        <order>
+            <user>
+                <name>John Doe</name>
+                <role>Client</role>
+                <username>john</username>
+                <password>john_doe</password>
+            </user>
+            <dateTime>2020-04-28T15:05</dateTime>
+            <table>
+                <number>2</number>
+                <number_of_seats>12</number_of_seats>
+                <smoking>false</smoking>
+            </table>
+            <totalPrice>60.0</totalPrice>
+            <items>
+                <item>
+                    <dish>
+                        <name>Apple Pie</name>
+                        <price>50.0</price>
+                        <type>desert</type>
+                    </dish>
+                    <quantity>1</quantity>
+                </item>
+            </items>
+        </order>
+    </orders>
+</restaurant>

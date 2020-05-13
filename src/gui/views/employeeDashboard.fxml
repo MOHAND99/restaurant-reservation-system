@@ -1,0 +1,6 @@
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.VBox?>
+<VBox xmlns:fx="http://javafx.com/fxml" fx:controller="gui.controllers.EmployeeDashboardController" fx:id="dashboard"
+      style="-fx-padding: 10" spacing="10">
+    <TableView fx:id="ordersData"/>
+</VBox>

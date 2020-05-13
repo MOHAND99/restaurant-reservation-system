@@ -1,0 +1,5 @@
+<?import javafx.scene.control.ScrollPane?>
+<ScrollPane xmlns:fx="http://javafx.com/fxml" xmlns="http://javafx.com/javafx" fx:id="root"
+            fx:controller="gui.controllers.MyOrdersController" maxHeight="500" hbarPolicy="NEVER">
+
+</ScrollPane>
